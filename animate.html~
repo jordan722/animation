@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+  <title>
+    Animation
+  </title>
+  <style>
+    #slate {border: 1px solid black}
+  </style>
+
+  <script src="animate.js" type="text/javascript"></script>
+</head>
+
+<body>
